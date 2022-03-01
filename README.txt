@@ -1,3 +1,6 @@
+Installation
+Follow instructions to install Rosetta according to https://new.rosettacommons.org/demos/latest/tutorials/install_build/install_build. 
+
 0_input
 
 The input model was generated from two crystal structures:

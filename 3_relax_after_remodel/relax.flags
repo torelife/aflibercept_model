@@ -1,0 +1,19 @@
+
+-l listfile.txt
+-movemap relax.movemap
+
+-ignore_unrecognized_res
+-flip_HNQ
+-ex1
+-ex2
+-ex1aro
+-extrachi_cutoff 0
+-use_input_sc
+-constrain_relax_to_start_coords
+-nstruct 10
+
+-multiple_processes_writing_to_one_directory
+
+-out:path:pdb out_pdb
+-out:pdb_gz
+-out:file:scorefile relax.sc

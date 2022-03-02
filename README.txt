@@ -39,3 +39,6 @@ and used as input for the next step.
 The remodeled structures were relaxed and the lowest energy 
 model (Rosetta total_score) was used as the final model for analysis.
 
+
+For the precise Rosetta version, please consult log files in "outerr"
+sub directories.

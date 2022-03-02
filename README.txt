@@ -1,7 +1,7 @@
 Installation
 
 Follow instructions to license and install Rosetta:
-https://new.rosettacommons.org/demos/latest/tutorials/install_build/install_build. 
+https://www.rosettacommons.org/docs/latest/getting_started/Getting-Started
 
 0_input
 
